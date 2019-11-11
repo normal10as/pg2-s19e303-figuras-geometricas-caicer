@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "EntidadesTest/1.0.0": {
+        "dependencies": {
+          "FigurasGeometricas": "1.0.0"
+        },
+        "runtime": {
+          "EntidadesTest.dll": {}
+        }
+      },
+      "FigurasGeometricas/1.0.0": {
+        "runtime": {
+          "FigurasGeometricas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntidadesTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FigurasGeometricas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

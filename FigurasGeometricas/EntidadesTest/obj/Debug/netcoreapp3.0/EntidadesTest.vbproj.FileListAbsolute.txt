@@ -1,0 +1,14 @@
+C:\Users\Caicer\source\repos\FigurasGeometricas\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.vbprojAssemblyReference.cache
+C:\Users\Caicer\source\repos\FigurasGeometricas\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.AssemblyInfoInputs.cache
+C:\Users\Caicer\source\repos\FigurasGeometricas\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.AssemblyInfo.vb
+C:\Users\Caicer\source\repos\FigurasGeometricas\EntidadesTest\bin\Debug\netcoreapp3.0\EntidadesTest.exe
+C:\Users\Caicer\source\repos\FigurasGeometricas\EntidadesTest\bin\Debug\netcoreapp3.0\EntidadesTest.deps.json
+C:\Users\Caicer\source\repos\FigurasGeometricas\EntidadesTest\bin\Debug\netcoreapp3.0\EntidadesTest.runtimeconfig.json
+C:\Users\Caicer\source\repos\FigurasGeometricas\EntidadesTest\bin\Debug\netcoreapp3.0\EntidadesTest.runtimeconfig.dev.json
+C:\Users\Caicer\source\repos\FigurasGeometricas\EntidadesTest\bin\Debug\netcoreapp3.0\EntidadesTest.dll
+C:\Users\Caicer\source\repos\FigurasGeometricas\EntidadesTest\bin\Debug\netcoreapp3.0\EntidadesTest.pdb
+C:\Users\Caicer\source\repos\FigurasGeometricas\EntidadesTest\bin\Debug\netcoreapp3.0\FigurasGeometricas.dll
+C:\Users\Caicer\source\repos\FigurasGeometricas\EntidadesTest\bin\Debug\netcoreapp3.0\FigurasGeometricas.pdb
+C:\Users\Caicer\source\repos\FigurasGeometricas\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.vbproj.CopyComplete
+C:\Users\Caicer\source\repos\FigurasGeometricas\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.dll
+C:\Users\Caicer\source\repos\FigurasGeometricas\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.pdb

@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\EntidadesTest\\EntidadesTest.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\EntidadesTest\\EntidadesTest.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\EntidadesTest\\EntidadesTest.vbproj",
+        "projectName": "EntidadesTest",
+        "projectPath": "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\EntidadesTest\\EntidadesTest.vbproj",
+        "packagesPath": "C:\\Users\\Caicer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\EntidadesTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Caicer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\FigurasGeometricas\\FigurasGeometricas.vbproj": {
+                "projectPath": "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\FigurasGeometricas\\FigurasGeometricas.vbproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\FigurasGeometricas\\FigurasGeometricas.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\FigurasGeometricas\\FigurasGeometricas.vbproj",
+        "projectName": "FigurasGeometricas",
+        "projectPath": "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\FigurasGeometricas\\FigurasGeometricas.vbproj",
+        "packagesPath": "C:\\Users\\Caicer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\FigurasGeometricas\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Caicer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

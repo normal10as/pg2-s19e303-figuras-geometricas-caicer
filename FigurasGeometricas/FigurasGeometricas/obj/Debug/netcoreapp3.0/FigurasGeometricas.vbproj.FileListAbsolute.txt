@@ -1,0 +1,8 @@
+C:\Users\Caicer\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\netcoreapp3.0\FigurasGeometricas.vbprojAssemblyReference.cache
+C:\Users\Caicer\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\netcoreapp3.0\FigurasGeometricas.AssemblyInfoInputs.cache
+C:\Users\Caicer\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\netcoreapp3.0\FigurasGeometricas.AssemblyInfo.vb
+C:\Users\Caicer\source\repos\FigurasGeometricas\FigurasGeometricas\bin\Debug\netcoreapp3.0\FigurasGeometricas.deps.json
+C:\Users\Caicer\source\repos\FigurasGeometricas\FigurasGeometricas\bin\Debug\netcoreapp3.0\FigurasGeometricas.dll
+C:\Users\Caicer\source\repos\FigurasGeometricas\FigurasGeometricas\bin\Debug\netcoreapp3.0\FigurasGeometricas.pdb
+C:\Users\Caicer\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\netcoreapp3.0\FigurasGeometricas.dll
+C:\Users\Caicer\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\netcoreapp3.0\FigurasGeometricas.pdb
