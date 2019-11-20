@@ -1,34 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\EntidadesTest\\EntidadesTest.vbproj": {}
+    "C:\\Users\\Enzo\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\EntidadesTest\\EntidadesTest.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\EntidadesTest\\EntidadesTest.vbproj": {
+    "C:\\Users\\Enzo\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\EntidadesTest\\EntidadesTest.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\EntidadesTest\\EntidadesTest.vbproj",
+        "projectUniqueName": "C:\\Users\\Enzo\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\EntidadesTest\\EntidadesTest.vbproj",
         "projectName": "EntidadesTest",
-        "projectPath": "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\EntidadesTest\\EntidadesTest.vbproj",
-        "packagesPath": "C:\\Users\\Caicer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\EntidadesTest\\obj\\",
+        "projectPath": "C:\\Users\\Enzo\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\EntidadesTest\\EntidadesTest.vbproj",
+        "packagesPath": "C:\\Users\\Enzo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Enzo\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\EntidadesTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Caicer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Enzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\FigurasGeometricas\\FigurasGeometricas.vbproj": {
-                "projectPath": "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\FigurasGeometricas\\FigurasGeometricas.vbproj"
+              "C:\\Users\\Enzo\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\FigurasGeometricas\\FigurasGeometricas.vbproj": {
+                "projectPath": "C:\\Users\\Enzo\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\FigurasGeometricas\\FigurasGeometricas.vbproj"
               }
             }
           }
@@ -60,24 +60,24 @@
         }
       }
     },
-    "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\FigurasGeometricas\\FigurasGeometricas.vbproj": {
+    "C:\\Users\\Enzo\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\FigurasGeometricas\\FigurasGeometricas.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\FigurasGeometricas\\FigurasGeometricas.vbproj",
+        "projectUniqueName": "C:\\Users\\Enzo\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\FigurasGeometricas\\FigurasGeometricas.vbproj",
         "projectName": "FigurasGeometricas",
-        "projectPath": "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\FigurasGeometricas\\FigurasGeometricas.vbproj",
-        "packagesPath": "C:\\Users\\Caicer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Caicer\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\FigurasGeometricas\\obj\\",
+        "projectPath": "C:\\Users\\Enzo\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\FigurasGeometricas\\FigurasGeometricas.vbproj",
+        "packagesPath": "C:\\Users\\Enzo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Enzo\\Source\\Repos\\normal10as\\pg2-s19e303-figuras-geometricas-caicer\\FigurasGeometricas\\FigurasGeometricas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Caicer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Enzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

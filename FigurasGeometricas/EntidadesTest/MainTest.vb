@@ -2,9 +2,9 @@ Imports System
 
 Module MainTest
     Sub Main()
-        Triangulo()
-        Rectangulo()
+        'Triangulo()
+        'Rectangulo()
         Cuadrado()
-        Circulo()
+        'Circulo()
     End Sub
 End Module

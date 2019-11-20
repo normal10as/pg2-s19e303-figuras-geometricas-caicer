@@ -2,7 +2,7 @@
 Imports FigurasGeometricas
 Module RectanguloTest
     Sub Rectangulo()
-        Dim rectangulo1 As New Rectangulo
+        Dim rectangulo1 As New Rectangulo("Rectangulo", 3, 7)
         rectangulo1.Nombre = "Rectangulo"
         rectangulo1.Altura = 3
         rectangulo1.Base = 7

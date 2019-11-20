@@ -12,3 +12,17 @@ C:\Users\Caicer\source\repos\FigurasGeometricas\EntidadesTest\bin\Debug\netcorea
 C:\Users\Caicer\source\repos\FigurasGeometricas\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.vbproj.CopyComplete
 C:\Users\Caicer\source\repos\FigurasGeometricas\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.dll
 C:\Users\Caicer\source\repos\FigurasGeometricas\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.pdb
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.vbprojAssemblyReference.cache
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.AssemblyInfoInputs.cache
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.AssemblyInfo.vb
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.dll
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.pdb
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\EntidadesTest\bin\Debug\netcoreapp3.0\EntidadesTest.exe
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\EntidadesTest\bin\Debug\netcoreapp3.0\EntidadesTest.deps.json
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\EntidadesTest\bin\Debug\netcoreapp3.0\EntidadesTest.runtimeconfig.json
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\EntidadesTest\bin\Debug\netcoreapp3.0\EntidadesTest.runtimeconfig.dev.json
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\EntidadesTest\bin\Debug\netcoreapp3.0\EntidadesTest.dll
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\EntidadesTest\bin\Debug\netcoreapp3.0\EntidadesTest.pdb
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\EntidadesTest\bin\Debug\netcoreapp3.0\FigurasGeometricas.dll
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\EntidadesTest\bin\Debug\netcoreapp3.0\FigurasGeometricas.pdb
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.vbproj.CopyComplete

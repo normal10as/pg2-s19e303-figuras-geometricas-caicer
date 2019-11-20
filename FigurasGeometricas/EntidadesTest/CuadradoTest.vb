@@ -2,7 +2,7 @@
 Imports FigurasGeometricas
 Module CuadradoTest
     Sub Cuadrado()
-        Dim cuadrado1 As New Cuadrado
+        Dim cuadrado1 As New Cuadrado("Cuadrado", 3)
         cuadrado1.Nombre = "Cuadrado"
         cuadrado1.Lado = 3
 

@@ -1,8 +1,8 @@
 ﻿Public Class Circulo
     Inherits Figura
-    Sub New()
-        MyBase.New
-        _Radio = 0
+    Sub New(nombre As String, radio As Single)
+        MyBase.New(nombre)
+        Me.Radio = radio
     End Sub
     Public Property Radio As Single
     Public Overrides Function CalcularArea() As Single

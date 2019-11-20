@@ -2,7 +2,7 @@
 Imports FigurasGeometricas
 Module CirculoTest
     Sub Circulo()
-        Dim circulo1 As New Circulo
+        Dim circulo1 As New Circulo("Circulo", 3)
         circulo1.Nombre = "Circulo"
         circulo1.Radio = 3
 

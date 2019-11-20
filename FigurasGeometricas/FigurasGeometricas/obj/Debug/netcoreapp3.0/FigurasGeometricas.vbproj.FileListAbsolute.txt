@@ -6,3 +6,11 @@ C:\Users\Caicer\source\repos\FigurasGeometricas\FigurasGeometricas\bin\Debug\net
 C:\Users\Caicer\source\repos\FigurasGeometricas\FigurasGeometricas\bin\Debug\netcoreapp3.0\FigurasGeometricas.pdb
 C:\Users\Caicer\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\netcoreapp3.0\FigurasGeometricas.dll
 C:\Users\Caicer\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\netcoreapp3.0\FigurasGeometricas.pdb
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\FigurasGeometricas\obj\Debug\netcoreapp3.0\FigurasGeometricas.vbprojAssemblyReference.cache
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\FigurasGeometricas\obj\Debug\netcoreapp3.0\FigurasGeometricas.AssemblyInfoInputs.cache
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\FigurasGeometricas\obj\Debug\netcoreapp3.0\FigurasGeometricas.AssemblyInfo.vb
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\FigurasGeometricas\obj\Debug\netcoreapp3.0\FigurasGeometricas.dll
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\FigurasGeometricas\obj\Debug\netcoreapp3.0\FigurasGeometricas.pdb
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\FigurasGeometricas\bin\Debug\netcoreapp3.0\FigurasGeometricas.deps.json
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\FigurasGeometricas\bin\Debug\netcoreapp3.0\FigurasGeometricas.dll
+C:\Users\Enzo\Source\Repos\normal10as\pg2-s19e303-figuras-geometricas-caicer\FigurasGeometricas\FigurasGeometricas\bin\Debug\netcoreapp3.0\FigurasGeometricas.pdb

@@ -1,9 +1,9 @@
 ﻿Public Class Rectangulo
     Inherits Figura
-    Sub New()
-        MyBase.New()
-        _Base = 0
-        _Altura = 0
+    Sub New(nombre As String, base As Single, altura As Single)
+        MyBase.New(nombre)
+        Me.Base = base
+        Me.Altura = altura
     End Sub
     Public Property Base As Single
     Public Property Altura As Single
